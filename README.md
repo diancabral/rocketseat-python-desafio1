@@ -23,7 +23,7 @@ Os dados ficam apenas **em memória** durante a execução; ao fechar o programa
 1. Entre na pasta do projeto:
 
    ```bash
-   cd modulo_1/desafio
+   cd rocketseat-python-desafio1
    ```
 
 2. Execute o programa:
